@@ -9,6 +9,41 @@ Email Me 👉 ✉️ **pawangrover904@gmail.com**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-grover-6690533a2) 
 
 
+---
+
+## ⚒️ Skills & Technologies
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.w3.org/html/" target="_blank" style="background: none; border: none; cursor: pointer; ">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+  </a>
+</p>
+
+---
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 # 📊 GitHub Stats:
