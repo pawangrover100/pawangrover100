@@ -1,0 +1,48 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="f">
+<stop stop-color="#00f5ff"/>
+<stop offset=".5" stop-color="#8b5cf6"/>
+<stop offset="1" stop-color="#ec4899"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="180" fill="#020617"/>
+
+<path d="M0 100 Q200 20 400 100 T800 100 T1200 100"
+fill="none"
+stroke="url(#f)"
+stroke-width="3"
+stroke-dasharray="15 12">
+
+<animate attributeName="stroke-dashoffset"
+values="0;-270"
+dur="4s"
+repeatCount="indefinite"/>
+
+</path>
+
+<text x="600" y="65"
+text-anchor="middle"
+font-family="monospace"
+font-size="20"
+fill="#00f5ff">
+
+PAWAN.DEV
+
+</text>
+
+<text x="600" y="145"
+text-anchor="middle"
+font-family="monospace"
+font-size="14"
+fill="#64748b">
+
+CODE • CREATE • INNOVATE
+
+</text>
+
+</svg>
