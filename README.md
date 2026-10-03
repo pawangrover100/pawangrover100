@@ -1,206 +1,426 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:EC4899&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Pawan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
-
-</div>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Express+%7C+MongoDB;AI+%2B+Web+Development+%F0%9F%A4%96;Building+Modern+Web+Applications+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%E2%9A%A1" />
-
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=PAWAN%20GROVER&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20MERN%20%E2%80%A2%20AI&descSize=20&descAlignY=58&animation=fadeIn&color=0:020617,35:111827,65:312e81,100:7c3aed"/>
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+MERN+Stack;Designing+%26+Building+Modern+Web+Applications;React+%2B+Node.js+%2B+MongoDB;Exploring+AI-Powered+Web+Applications;Turning+Ideas+Into+Production-Ready+Products" />
 
-## 👨‍💻 About Me
+<br/><br/>
 
-```javascript
-const pawan = {
-    role: "MERN Stack Developer",
-    focus: ["Web Development", "AI", "Modern UI/UX"],
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    database: ["MongoDB", "Mongoose"],
-    tools: ["Git", "GitHub", "VS Code", "Postman"],
-    currentlyLearning: "AI + MERN Stack",
-    goal: "Build scalable and modern web applications 🚀"
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mongoose,git,github,vscode,postman&perline=7" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true" />
-
+<a href="https://github.com/pawangrover100">
+<img src="https://img.shields.io/badge/GITHUB-pawangrover100-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/pawan-grover-6690533a2/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🛒 Grocery Website
-
-> Multipage grocery website built using React and Tailwind CSS.
-
-**Tech:** React • Tailwind CSS • React Router • Vite
-
-### 🏥 Hospital Website
-
-> Modern responsive hospital website with doctors, facilities and services sections.
-
-**Tech:** React • CSS • Bootstrap • Swiper
-
-### ⌨️ MERN Typing Test
-
-> Full-stack typing practice platform with authentication, dashboard and typing tests.
-
-**Tech:** React • Node.js • Express • MongoDB • JWT
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=pawangrover100&label=VISITORS&style=for-the-badge&color=7c3aed"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# `01` // DEVELOPER IDENTITY
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<td width="58%">
 
-</div>
+## Pawan Grover
 
----
+**MERN Stack Developer**
 
-## 🏆 GitHub Trophies
+I build modern web applications with a focus on clean interfaces, reusable components, REST APIs and scalable application architecture.
 
-<div align="center">
+Currently expanding my development workflow toward **AI-powered web applications**.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+```yaml
+developer:
+  name: Pawan Grover
+  role: Software Developer
+  specialization: MERN Stack
 
-</div>
+engineering:
+  frontend: React
+  backend: Node.js / Express
+  database: MongoDB
+  styling: Tailwind / Bootstrap
 
----
+interests:
+  - Full Stack Development
+  - AI Integration
+  - UI Engineering
+  - Developer Tools
 
-## 📈 Contribution Graph
+status: "Building & Learning"
+```
 
-<div align="center">
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f5ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<!-- ===================== SNAKE ===================== -->
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎯 Current Goals
+<td width="42%">
 
 ```text
-✅ Learn MERN Stack
-✅ Build React Projects
-✅ Learn Node & Express
-✅ Work with MongoDB
-🔄 Improve JavaScript
-🔄 Learn AI Integration
-🔄 Build AI-powered MERN Applications
-⬜ Become a Professional Full Stack Developer
+┌──────────────────────────────┐
+│       DEVELOPER STATUS       │
+├──────────────────────────────┤
+│                              │
+│  ● AVAILABLE                │
+│                              │
+│  STACK                       │
+│  ├─ React                    │
+│  ├─ Node.js                  │
+│  ├─ Express                  │
+│  └─ MongoDB                  │
+│                              │
+│  FOCUS                       │
+│  ├─ Full Stack               │
+│  ├─ AI                       │
+│  └─ Product Building         │
+│                              │
+│  SYSTEM: ONLINE              │
+└──────────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `02` // ENGINEERING STACK
+
+<div align="center">
+
+### FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite"/>
+
+<br/><br/>
+
+### BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+<br/><br/>
+
+### DATA & DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman,npm"/>
+
+</div>
+
+---
+
+# `03` // ENGINEERING CAPABILITIES
+
+<table>
+<tr>
+<td>
+
+### ⚛️ Frontend
+
+```text
+React Architecture
+Reusable Components
+React Router
+State Management
+Responsive UI
+Tailwind / Bootstrap
+Modern UX
+```
+
+</td>
+
+<td>
+
+### ⚙️ Backend
+
+```text
+Node.js
+Express.js
+REST APIs
+CRUD Operations
+Authentication
+Middleware
+API Integration
+```
+
+</td>
+
+<td>
+
+### 🗄️ Data
+
+```text
+MongoDB
+Mongoose
+Database Design
+CRUD
+Queries
+Data Validation
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `04` // SELECTED BUILDS
+
+<div align="center">
+
+## 🛒 Grocery Platform
+
+**Modern React Commerce Interface**
+
+```text
+React
+Tailwind CSS
+Vite
+React Router
+Responsive Design
+```
+
+A multipage grocery experience focused on reusable React components and responsive UI architecture.
+
+---
+
+## 🏥 Healthcare Platform
+
+**Modern Hospital Web Experience**
+
+```text
+React
+Bootstrap
+CSS
+Swiper
+Component Architecture
+```
+
+Responsive healthcare interface featuring doctors, facilities, services and modern content sections.
+
+---
+
+## ⌨️ MERN Typing Platform
+
+**Full Stack Interactive Application**
+
+```text
+React
+Node.js
+Express
+MongoDB
+JWT
+Axios
+```
+
+A typing-practice platform concept designed around authentication, testing, dashboards and user progress.
+
+---
+
+## 🤖 AI + MERN
+
+**Next Development Direction**
+
+```text
+React
+Node.js
+AI APIs
+REST APIs
+MongoDB
+```
+
+Exploring practical ways to integrate AI capabilities into modern full-stack applications.
+
+</div>
+
+---
+
+# `05` // HOW I BUILD
+
+```text
+                    ┌─────────────────┐
+                    │      IDEA       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    PLANNING     │
+                    └────────┬────────┘
+                             ↓
+              ┌──────────────┴──────────────┐
+              ↓                             ↓
+       ┌─────────────┐               ┌─────────────┐
+       │   FRONTEND  │               │   BACKEND   │
+       │    React    │               │ Node/Express│
+       └──────┬──────┘               └──────┬──────┘
+              │                             │
+              └──────────────┬──────────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    MongoDB      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │     TESTING     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │     DEPLOY      │
+                    └─────────────────┘
 ```
 
 ---
 
-## 🌱 Currently Learning
+# `06` // GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawangrover100&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&ring_color=8b5cf6"/>
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawangrover100&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=cbd5e1"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pawangrover100&theme=transparent&hide_border=true&ring=8b5cf6&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+# `07` // CONTRIBUTION SYSTEM
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:00F5FF&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawangrover100&bg_color=020617&color=c4b5fd&line=8b5cf6&point=22d3ee&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20GRAPH" width="100%"/>
 
-### ⚡ Code • Learn • Build • Repeat
+</div>
+
+---
+
+# `08` // 3D CONTRIBUTION
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+
+</div>
+
+---
+
+# `09` // CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pawangrover100/pawangrover100/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# `10` // CURRENT DEVELOPMENT
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    CURRENT DEVELOPMENT                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ████████████████████░░░░░░  Advanced React                │
+│  █████████████████░░░░░░░░░  Backend Architecture          │
+│  ███████████████░░░░░░░░░░░  REST API Development          │
+│  █████████████░░░░░░░░░░░░░  MongoDB                       │
+│  ██████████░░░░░░░░░░░░░░░░  AI Integration                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `11` // DEVELOPMENT ROADMAP
+
+```text
+2026
+│
+├── ████████████████████████ MERN FOUNDATION
+│
+├── ████████████████████░░░ Advanced React
+│
+├── █████████████████░░░░░░ Backend Engineering
+│
+├── █████████████░░░░░░░░░ AI Integration
+│
+├── ██████████░░░░░░░░░░░░ AI + MERN Applications
+│
+└── █████░░░░░░░░░░░░░░░░░ Production Architecture
+```
+
+---
+
+# `12` // DEVELOPER PRINCIPLES
+
+<div align="center">
+
+### `01` — Build before perfecting.
+
+### `02` — Understand the problem before writing code.
+
+### `03` — Keep components reusable.
+
+### `04` — Write code that another developer can understand.
+
+### `05` — Learn continuously.
+
+<br/>
+
+**Good software is built through iteration.**
+
+</div>
+
+---
+
+# `13` // CONNECT
+
+<div align="center">
+
+<a href="https://github.com/pawangrover100">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pawan-grover-6690533a2/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8b5cf6"/>
+
+<br/><br/>
+
+```text
+> Pawan Grover
+> Software Developer
+> MERN + AI
+> Status: Building the future.
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:7c3aed,50:312e81,100:020617"/>
 
 </div>
